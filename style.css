@@ -1,0 +1,29 @@
+#htable{
+    width: 100%;
+}
+
+#vert-td-top{
+    vertical-align: top;
+    text-align: left;
+    width: 20%;
+}
+
+#vert-td-bottom{
+    vertical-align: bottom;
+    text-align: right;
+    width: 20%;
+}
+}
+
+div.image{
+    text-align: left;
+}
+
+div.image img{
+    width: 80px;
+    align-self: center;
+}
+
+#logo{
+    text-align: center;
+}
